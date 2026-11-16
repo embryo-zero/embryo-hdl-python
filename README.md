@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo HDL Python
+
+**Embryo HDL Python** is Embryo-Zero's fork of [Amaranth HDL](https://github.com/amaranth-lang/amaranth), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Amaranth HDL (previously nMigen)
 
 The Amaranth project provides an open-source toolchain for developing hardware based on synchronous digital logic using the Python programming language, as well as [evaluation board definitions][amaranth-boards], a [System on Chip toolkit][amaranth-soc], and more. It aims to be easy to learn and use, reduce or eliminate common coding mistakes, and simplify the design of complex hardware with reusable components.
